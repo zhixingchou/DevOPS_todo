@@ -79,12 +79,12 @@ web Framework实现原理
 
 # OPS
 
-> B站：架构设计--实现Saltstack高可用架构
-> B站：驱动DevOPS的具体落地--发布系统、CI/CD、容器平台
-> B站：整个网站架构--从端到CDN，再到四层负载均衡、七层负载均衡，应用服务网关等等
-> B站：排障手段和思路--包括 dropwatch 、 tcpflow ， perf ，也开始实际接触到分布式系统，如Mesos、Consul这样的系统故障时的处理
-> B站：黑科技【底层技术】--理解CGroup、Namespace、FUSE等一些内核特性
-> B站：全面的运维架构相关的基础组件--认识和学习TSDB、监控告警、SLB\gateway（nginx甚至liknerd）
+> B站：架构设计--实现Saltstack高可用架构  
+> B站：驱动DevOPS的具体落地--发布系统、CI/CD、容器平台  
+> B站：整个网站架构--从端到CDN，再到四层负载均衡、七层负载均衡，应用服务网关等等  
+> B站：排障手段和思路--包括 dropwatch 、 tcpflow ， perf ，也开始实际接触到分布式系统，如Mesos、Consul这样的系统故障时的处理  
+> B站：黑科技【底层技术】--理解CGroup、Namespace、FUSE等一些内核特性  
+> B站：全面的运维架构相关的基础组件--认识和学习TSDB、监控告警、SLB\gateway（nginx甚至liknerd）  
 
 
 # 目标
